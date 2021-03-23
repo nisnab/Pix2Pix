@@ -2,7 +2,7 @@
 In this repository,  I implemented the paper "Image-to-Image Translation with Conditional Adversarial Networks"(https://arxiv.org/pdf/1611.07004.pdf) to translate images from landscapes painting to Real-world images. 
 
 ## Table of contents
-* [Task Description](#TaskDescription)
+* [Folder Structure](#FolderStructure)
 * [Installation](#Installation)
 * [Usage](#Usage)
 ## Task Description
