@@ -63,24 +63,24 @@ Folder structure
   </tr>
   <tr>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0239.jpg"/>
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/a/image1056.png"/>
     </td>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0239.jpg"/>
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/result/facades/image1056.png"/>
     </td>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0239.jpg"/>
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/b/image1056.png"/>
     </td>
   </tr>
   <tr>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0360.jpg"/>
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/a/image1056.png"/>
     </td>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0360.jpg"/>
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/result/facades/image1057.png"/>
     </td>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0360.jpg"/>
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/b/image1057.png"/>
     </td>
   </tr>
 </table>
