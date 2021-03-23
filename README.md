@@ -52,7 +52,9 @@ Folder structure
   </tr>
   <tr>
     <td>
-     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/tree/main/facades/train/a/image1001.png"/>
+     <img src="
+
+"/>
     </td>
     <td>
      <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0206.jpg"/>
