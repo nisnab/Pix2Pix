@@ -74,7 +74,7 @@ Folder structure
   </tr>
   <tr>
     <td>
-     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/a/image1056.png"/>
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/a/image1057.png"/>
     </td>
     <td>
      <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/result/facades/image1057.png"/>
