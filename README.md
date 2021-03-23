@@ -52,10 +52,10 @@ Folder structure
   </tr>
   <tr>
     <td>
-     ![](https://raw.githubusercontent.com)
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/a/image1001.png" />
     </td>
     <td>
-     <img src ="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/a/image1001.png"/>
+     <img src ="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/b/image1001.png"/>
     </td>
     <td>
      <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0206.jpg"/>
