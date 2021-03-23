@@ -41,9 +41,8 @@ Folder structure
 └──logs/tensorlogs     
 
 ```
-##Results
-## 1. Pix2Pix
-- facades
+## Results
+
 
 <table>
   <tr>
@@ -53,7 +52,7 @@ Folder structure
   </tr>
   <tr>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0206.jpg"/>
+     <img src="https://raw.githubusercontent.com/Nisnab/Pix2Pix/tree/main/facades/train/a/image1001.png"/>
     </td>
     <td>
      <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0206.jpg"/>
