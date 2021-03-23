@@ -3,8 +3,8 @@ In this repository,  I implemented the paper "Image-to-Image Translation with Co
 
 ## Table of contents
 * [Folder Structure](#FolderStructure)
-* [Installation](#Installation)
-* [Usage](#Usage)
+* [Results](#Results)
+* [Acknowledgement](#Acknowledgement)
 ## Task Description
 
 ```bash
@@ -41,5 +41,49 @@ Folder structure
 └──logs/tensorlogs     
 
 ```
+##Results
+## 1. Pix2Pix
+- facades
+
+<table>
+  <tr>
+    <td style="text-align: middle;">Input</td>
+    <td style="text-align: middle;">Generated</td>
+    <td style="text-align: middle;">Target</td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0206.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0206.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0206.jpg"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0239.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0239.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0239.jpg"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0360.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0360.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0360.jpg"/>
+    </td>
+  </tr>
+</table>
 
 
