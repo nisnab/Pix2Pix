@@ -55,7 +55,7 @@ Folder structure
      ![](https://raw.githubusercontent.com)
     </td>
     <td>
-     <img src ="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0206.jpg" />
+     <img src ="https://raw.githubusercontent.com/Nisnab/Pix2Pix/main/dataset/facades/train/a/image1001.png"/>
     </td>
     <td>
      <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0206.jpg"/>
