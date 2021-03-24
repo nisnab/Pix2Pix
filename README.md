@@ -85,4 +85,8 @@ Folder structure
   </tr>
 </table>
 
+## Acknowledgement
 
+Due to the fixed image size, the generated images are smaller in size. However, the generated images can be viewed in folders.
+
+The repository borrows heavily fron (https://github.com/suhoy901/ImageTranslation)
