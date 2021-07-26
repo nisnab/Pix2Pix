@@ -7,7 +7,8 @@ In this repository,  I implemented the paper "Image-to-Image Translation with Co
 * [Acknowledgement](#Acknowledgement)
 ## Task Description
 
-```bash
+```
+The task is to generate real images from landscape paintings.
 ```
 Folder structure
 --------------
